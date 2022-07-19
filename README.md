@@ -1,2 +1,2 @@
 # JavaPrograms
-Jaca Program
+Java Program
